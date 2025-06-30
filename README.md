@@ -111,10 +111,12 @@ Can be integrated using `cv2.VideoCapture` in Python.
 
 ## 🔍 Sample Output
 
-- Annotated image with crack bounding boxes and severity tags
-- Depth heatmap overlay
-- Pie chart showing severity levels
-- Crack growth prediction over time (linear regression)
+
+![WhatsApp Image 2025-06-30 at 15 20 41_64fe063f](https://github.com/user-attachments/assets/d2a614e6-d8e4-44d4-b369-e8e8234f36a1)
+![WhatsApp Image 2025-06-30 at 15 20 41_e24551c2](https://github.com/user-attachments/assets/a7696767-3aa8-43d1-97c7-8386d5c85921)
+![WhatsApp Image 2025-06-30 at 15 20 41_e0366bca](https://github.com/user-attachments/assets/413d270c-2007-4b9b-a5fe-bc095039118f)
+![WhatsApp Image 2025-06-30 at 15 20 41_31c6a637](https://github.com/user-attachments/assets/0b6c8861-dd1b-4896-8fce-4023aee89140)
+![WhatsApp Image 2025-06-30 at 15 20 42_98ad61ea](https://github.com/user-attachments/assets/4f293f1b-7bb0-4e78-88f8-fa6c67eb2c06)
 
 ---
 
